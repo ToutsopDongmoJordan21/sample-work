@@ -31,4 +31,7 @@ $ npm install --save firebase @angular/fire -f
 
 14. run 'firebase init'
 
-15. run ng build
+15. run 'ng build --configuration production --aot'
+
+16. run 'firebase deploy'
+
